@@ -1,6 +1,6 @@
 package main
 
-import "github.com/apavanello/game-of-life/internal/game"
+import "github.com/apavanello/game_of_life/internal/game"
 
 func main() {
 

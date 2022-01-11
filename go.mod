@@ -1,4 +1,4 @@
-module github.com/apavanello/game-of-life
+module github.com/apavanello/game_of_life
 
 go 1.17
 

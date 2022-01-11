@@ -4,7 +4,7 @@
         "version": "1.0.0",
         "description": "",
         "copyright": "",
-        "main_package": "github.com/apavanello/game-of-life/cmd/main"
+        "main_package": "github.com/apavanello/game_of_life/cmd/main"
     },
     "build": {
         "output_path": "build",
